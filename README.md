@@ -196,4 +196,4 @@ This repository serves as the official landing page for ACA NEOGEO THE KING OF F
 **Get the most recent version of ACA NEOGEO THE KING OF FIGHTERS '96 today!**
 
 ---
-**Last updated:** 2026-11-09 21:12:06 UTC
+**Last updated:** 2026-11-10 03:53:26 UTC
